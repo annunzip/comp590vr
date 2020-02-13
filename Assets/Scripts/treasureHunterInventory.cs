@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class treasureHunterInventory : MonoBehaviour
 {
-    public collectible[] inInventory;
+    //public collectible[] inInventory;
+    public List<GameObject> inInventory = new List<GameObject>();
     // Start is called before the first frame update
     void Start()
     {

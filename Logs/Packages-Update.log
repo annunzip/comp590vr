@@ -45,3 +45,15 @@ The following packages were added:
   com.unity.modules.vr@1.0.0
   com.unity.modules.wind@1.0.0
   com.unity.modules.xr@1.0.0
+
+=== Tue Feb 11 22:01:45 2020
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.ads@2.0.8
+  com.unity.analytics@3.3.2
+  com.unity.postprocessing@2.1.7
+  com.unity.purchasing@2.0.6
+  com.unity.xr.legacyinputhelpers@2.0.2

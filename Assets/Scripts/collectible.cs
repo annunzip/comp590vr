@@ -5,6 +5,8 @@ using UnityEngine;
 public class collectible : MonoBehaviour
 {
     public int value;
+    public string pathname;
+    public int pathvalue;
     // Start is called before the first frame update
     void Start()
     {
